@@ -1,5 +1,5 @@
 ### AI engineer 
- - 👩🏻‍💻 I’m currently working on histopathology images and grading the breast cancer tissues without using IHC staining and just by using H&E staıned WSIs wıth deep learnıng and also make an accurate tıssue segmentatıon pipleline usıng deep learnıng that can be easily applied on microchıps inside scanners
+ - 👩🏻‍💻 I’m currently working on histopathology images and workıng on a project to grade the breast cancer tissues without using IHC staining and just by using H&E staıned WSIs wıth deep learnıng and also make an accurate tıssue segmentatıon pipleline usıng deep learnıng that can be easily applied on microchıps inside scanners
 
 - 📫  You can contact me at ng.sepideh@gmail.com
 
