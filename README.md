@@ -4,7 +4,7 @@
 src="https://img.shields.io/twitter/follow/NaghshinehK?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-## I'm a Wife,Artist, Electronics engineer, and AI masters'student.
+## I'm an Artist, Electronics engineer, and AI masters'student.
 
  I’m currently working on histopathology images and workıng on a project to grade the breast cancer tissues without using IHC staining and just by using H&E staıned WSIs with deep learning and also make an accurate tissue segmentation pipleline usıng deep learnıng that can be easily applied on microchıps inside scanners
 - 🌱 I’m currently learning everything 🤣
