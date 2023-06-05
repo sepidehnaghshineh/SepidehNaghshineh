@@ -3,8 +3,6 @@
 
 - 📫  You can contact me at ng.sepideh@gmail.com
 
-### SKILLS 
-@python
 
 
 <!--
