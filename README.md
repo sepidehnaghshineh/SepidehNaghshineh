@@ -12,7 +12,7 @@ src="https://img.shields.io/twitter/follow/NaghshinehK?logo=twitter&style=for-th
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to paint and dance 
 
-### Connect with me:
+### Connect me:
 
 <p align="center"> <a href="https://github.com/sepidehnaghshineh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/sepidehnaghshineh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
