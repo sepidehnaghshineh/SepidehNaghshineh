@@ -3,6 +3,9 @@
 
 - 📫  You can contact me at ng.sepideh@gmail.com
 
+### SKILLS 
+https://www.python.org 
+
 
 <!--
 **sepidehnaghshineh/SepidehNaghshineh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
