@@ -18,14 +18,8 @@ src="https://img.shields.io/twitter/follow/NaghshinehK?logo=twitter&style=for-th
 <a href="https://www.linkedin.com/in/sepidehnaghshineh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  <a href="https://stackoverflow.com/users/18511380" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
   <a href="https://twitter.com/NaghshinehK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/sepidehnaghshineh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sepidehnaghshineh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-### Languages and Tools:
+  
+  ### Languages and Tools:
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -48,6 +42,14 @@ src="https://img.shields.io/twitter/follow/NaghshinehK?logo=twitter&style=for-th
 
 
 <br />
+
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/sepidehnaghshineh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sepidehnaghshineh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
 <br />
 
 ---
