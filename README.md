@@ -7,10 +7,10 @@ src="https://img.shields.io/twitter/follow/NaghshinehK?logo=twitter&style=for-th
 ## I'm an Artist, Electronics engineer, and AI masters'student.
 
  I’m currently working on histopathology images and workıng on a project to grade the breast cancer tissues without using IHC staining and just by using H&E staıned WSIs with deep learning and also make an accurate tissue segmentation pipleline usıng deep learnıng that can be easily applied on microchıps inside scanners
-- 🌱 I’m currently learning everything 🤣
--  I’m looking to collaborate with people working on this field
+- 🌱 I’m currently learning data analystics.
+-  I’m looking to collaborate with people working on digital pathology.
 - 🥅 2024 Goals: Learn more about syber security and Data 
-- ⚡ Fun fact: I love to paint and dance 
+- ⚡ Fun fact: I love astronomy and I wish to use my skills in AI, in this field.
 
 ### Connect me:
 
