@@ -4,10 +4,10 @@
 src="https://img.shields.io/twitter/follow/NaghshinehK?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-## I'm an Artist, Electronics engineer, and have a master's degree in Artificial Intelligence.
+## I like to be concidered as an Artist, and a Magician powered by a master's degree in Artificial Intelligence. 
 
  I’m currently working on histopathology images and workıng on a project to grade the breast cancer tissues without using IHC staining and just by using H&E staıned WSIs with deep learning and also make an accurate tissue segmentation pipleline usıng deep learnıng that can be easily applied on microchıps inside scanners
-- 🌱 I’m currently learning data analystics.
+- 🌱 I’m currently doing personal projects to learn more about LLM .
 -  I’m looking to collaborate with people working on digital pathology.
 - 🥅 2024 Goals: Learn more about Data science and finance. 
 - ⚡ Fun fact: I love astronomy and I wish to use my skills in AI, in this field.
