@@ -9,9 +9,8 @@ src="https://img.shields.io/twitter/follow/NaghshinehK?logo=twitter&style=for-th
  I’m currently working on histopathology images and workıng on a project to grade the breast cancer tissues without using IHC staining and just by using H&E staıned WSIs with deep learning and also make an accurate tissue segmentation pipleline usıng deep learnıng that can be easily applied on microchıps inside scanners
 - 🌱 I’m currently doing personal projects to learn more about LLM .
 -  I’m looking to collaborate with people working on digital pathology.
-- 🥅 2024 Goals: Learn more about Data science and finance. 
-- ⚡ Fun fact: I love astronomy and I wish to use my skills in AI, in this field.
-
+- 🥅 2025 Goals: Learn more about Data science and finance. Be more active.
+- ⚡ Fun fact: I love astronomy and I wish to use my skills in AI, in this field too .
 ### Connect me:
 
 <p align="center"> <a href="https://github.com/sepidehnaghshineh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
